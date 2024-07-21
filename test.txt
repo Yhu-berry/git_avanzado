@@ -1,1 +1,3 @@
-Resolución del conflicto, cambio combinado del archivo test.txt (sus dos versiones una de main y la otra de era de nueva-rama, al tener el mismo nombre ocurría un conflicto ya que no se podia sobrescribir)
+Resolución del conflicto, cambio combinado del archivo test.txt 
+(sus dos versiones una de main y la otra de era de nueva-rama, 
+al tener el mismo nombre ocurría un conflicto ya que no se podia sobrescribir)
